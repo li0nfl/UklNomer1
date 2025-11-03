@@ -1,4 +1,4 @@
-Program yang saya buat digunakan untuk menghitung total biaya pengiriman paket berdasarkan:
+<img width="1280" height="797" alt="image" src="https://github.com/user-attachments/assets/555ecc7c-df0d-408c-a99b-e3095f253628" />Program yang saya buat digunakan untuk menghitung total biaya pengiriman paket berdasarkan:
 	•	Berat paket (Kg)
 	•	Jarak pengiriman (Km)
 	•	Ukuran paket (panjang × lebar × tinggi dalam cm)
